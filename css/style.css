@@ -77,6 +77,10 @@ body h1
 }
 @media (max-width:985px)
 {
+    .input-group
+    {
+        width: 60%;
+    }
     .container
     {
         justify-content: center;
